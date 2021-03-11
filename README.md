@@ -6,3 +6,4 @@ HTML debugging
 
 CSS
 * Consolidating sections and properties.
+* Optimizing  picture size to fit 100% on all devices.
