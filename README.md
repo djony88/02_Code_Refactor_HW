@@ -8,4 +8,3 @@ HTML
 CSS
 * Consolidating sections and properties.
 * Optimizing  picture size to fit 100% on all devices.
-[Webpage preview](.assets/images/preview.png)
