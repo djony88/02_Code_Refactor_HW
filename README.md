@@ -1,5 +1,10 @@
 UCSD-SD-FSF-PT-03-2021-U-C-MW
 
+https://github.com/djony88/02_Code_Refactor_HW
+
+https://djony88.github.io/02_Code_Refactor_HW/
+
+
 HTML
 * Changed title of the Webpage from 'webpage' to 'Code Refractor'.
 * Added div id="search-engine-optimization" so it can navigate to Search Engine Optimization paragraph
