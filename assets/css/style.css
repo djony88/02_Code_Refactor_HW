@@ -51,7 +51,7 @@ p {
 }
 /* Optimizing  picture size to fit 100% on all devices*/
 .hero {
-    height: 600px;
+    height: 900px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
